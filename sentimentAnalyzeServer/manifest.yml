@@ -1,7 +1,7 @@
 ---
 applications:
 - path: .
-  name: igor-3254-sentiment-analyzer #change to be unique in IBM Cloud
+  name: sentiment-analyzer-spontaneous-dugong-vp #change to be unique in IBM Cloud
   buildpack: sdk-for-nodejs
   memory: 256M
   instances: 1
